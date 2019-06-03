@@ -1,0 +1,5 @@
+
+POST http://localhost:4000/movie/953dd85e-eac7-4656-a29e-f1e48b739e4f/upvote HTTP/1.1
+content-type: application/json
+authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImZjMmY0ZDZiLTA2OGEtNDNmNi1hZmVkLWIzNDA4YTEwZjE4YiIsInVzZXJuYW1lIjoibWlyZWlhIiwiaWF0IjoxNTU5NTU1OTIwLCJleHAiOjE1NjAxNjA3MjB9.nEsAyrc88UyCve9O97ns1h9bpz3qwAcxFd7rd72nX2w
+

@@ -1,0 +1,4 @@
+GET http://localhost:4000/movie HTTP/1.1
+content-type: application/json
+authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImZjMmY0ZDZiLTA2OGEtNDNmNi1hZmVkLWIzNDA4YTEwZjE4YiIsInVzZXJuYW1lIjoibWlyZWlhIiwiaWF0IjoxNTU5MjIwMTI0LCJleHAiOjE1NTk4MjQ5MjR9.NYXaKCZXrijU-nzU7e64a-hRPBzm_wwAVwgzPqTrA3M
+
